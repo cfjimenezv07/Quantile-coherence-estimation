@@ -40,7 +40,6 @@ The R script files in the `R Code` folder should be used in the following order:
 ## How to Cite
 If you use this code, data, or methodology in your research, please cite our paper:
 
-**APA Style:**
 > Jiménez-Varón, C. F., Sun, Y., & Li, T.-H. (2024). A semi-parametric estimation method for quantile coherence with an application to bivariate financial time series clustering. *Econometrics and Statistics*. https://doi.org/10.1016/j.ecosta.2024.11.002
 
 **BibTeX:**
